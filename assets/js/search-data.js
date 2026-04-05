@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Personal-CV/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-ai-news-summary-for-march-2026",
+        
+          title: "AI news summary for March 2026",
+        
+        description: "A summary of ai news for March 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/Personal-CV/blog/2026/ai-news-march/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
