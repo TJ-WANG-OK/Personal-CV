@@ -5,6 +5,7 @@ date: 2026-04-03 23:00:00
 description: A summary of ai news for March 2026
 tags: formatting tables
 categories: sample-posts
+pretty_table: true
 ---
 
 > 报告周期：2026 年 3 月 1 日 - 3 月 31 日  
