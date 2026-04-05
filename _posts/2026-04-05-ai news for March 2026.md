@@ -1,3 +1,15 @@
+---
+layout: post
+title: AI news summary for March 2026
+date: 2026-04-05 23:00:00-0400
+description: A summary of ai news for March 2026
+tags: formatting tables
+categories: sample-posts
+giscus_comments: true
+related_posts: true
+pretty_table: true
+---
+
 # 2026 年 3 月 AI 领域新闻与研究进展报告
 
 > 报告周期：2026 年 3 月 1 日 - 3 月 31 日  
