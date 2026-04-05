@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI news summary for March 2026
-date: 2026-04-05 23:00:00-0400
+date: 2026-04-05 23:00:00
 description: A summary of ai news for March 2026
 tags: formatting tables
 categories: sample-posts
