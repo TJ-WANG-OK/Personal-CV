@@ -48,6 +48,7 @@ pretty_table: true
 ### 2.1 大语言模型
 
 #### OpenAI
+
 | 模型 | 发布时间 | 核心特性 | 定价 |
 |------|----------|----------|------|
 | GPT-5.3 Instant | 3 月 4 日 | 减少拒答和说教，联网幻觉率降低 26.8% | - |
@@ -57,6 +58,7 @@ pretty_table: true
 | GPT-5.4 nano | 3 月 18 日 | 最小最轻量，专注分类与数据提取 | 输入$0.20/M，输出$1.25/M |
 
 #### Google/DeepMind
+
 | 模型 | 发布时间 | 核心特性 |
 |------|----------|----------|
 | Gemini 3.1 Flash-Lite | 3 月 4 日 | 速度最快，输出速度比 2.5 Flash 快 45% |
@@ -65,6 +67,7 @@ pretty_table: true
 | Lyria 3 Pro | 3 月 26 日 | 音乐生成，最长 3 分钟专业音轨 |
 
 #### Anthropic
+
 | 更新 | 时间 | 内容 |
 |------|------|------|
 | Claude 1M 上下文 | 3 月 14 日 | Opus 4.6/Sonnet 4.6 正式开放 100 万 token，取消长上下文溢价 |
@@ -73,6 +76,7 @@ pretty_table: true
 | Claude Mythos（泄露） | 3 月 28 日 | Opus 之上的第四档，网络能力极强，仅向安全防御机构开放 |
 
 #### 阿里千问
+
 | 模型 | 时间 | 特性 |
 |------|------|------|
 | Qwen3.5 小模型系列 | 3 月 3 日 | 0.8B/2B/4B/9B 四款，原生多模态，262K 上下文 |
@@ -81,12 +85,14 @@ pretty_table: true
 | Qwen3.6 Plus Preview | 3 月 31 日 | 1M 上下文，更强推理和 Agent 行为 |
 
 #### 智谱
+
 | 模型 | 时间 | 特性 |
 |------|------|------|
 | GLM-5-Turbo | 3 月 16 日 | 专为 Agent 优化，200K 上下文，ZClawBench 第一梯队 |
 | GLM-5.1 | 3 月 28 日 | 处理长周期任务的新一代编程 Agent，4 月上旬正式发布 |
 
 #### MiniMax
+
 | 模型 | 时间 | 特性 |
 |------|------|------|
 | M2.7 | 3 月 19 日 | 自我进化，SWE-Pro 56.22%，接近 Opus 水平 |
@@ -94,6 +100,7 @@ pretty_table: true
 | M3（预告） | 3 月 23 日 | 将支持视觉功能 |
 
 #### 其他重要模型
+
 | 公司 | 模型 | 时间 | 特性 |
 |------|------|------|------|
 | 小米 | MiMo V2-Pro/Omni/TTS | 3 月 19 日 | Pro:1T 总参数/42B 激活/1M 上下文 |
@@ -171,6 +178,7 @@ pretty_table: true
 ### 3.2 编程 Agent 工具
 
 #### Claude Code
+
 | 功能 | 时间 | 描述 |
 |------|------|------|
 | Remote Control | 3 月 1 日 | Pro 用户支持终端会话转移至手机 |
@@ -185,6 +193,7 @@ pretty_table: true
 | GitHub Enterprise Server | 3 月 31 日 | 支持自托管仓库 |
 
 #### Codex (OpenAI)
+
 | 更新 | 时间 | 描述 |
 |------|------|------|
 | Windows 应用发布 | 3 月 5 日 | Microsoft Store 下载，原生 Agent 沙盒开源 |
@@ -196,6 +205,7 @@ pretty_table: true
 | Codex-only Plan（传闻） | 3 月 30 日 | 专属低价订阅计划 |
 
 #### Cursor
+
 | 更新 | 时间 | 描述 |
 |------|------|------|
 | 2.6 版本 | 3 月 4 日 | MCP 应用，渲染 Figma/Amplitude 界面 |
@@ -205,6 +215,7 @@ pretty_table: true
 | Glass 界面 | 3 月 20 日 | 早期 Alpha 版新界面 |
 
 #### 其他工具
+
 | 工具 | 公司 | 时间 | 特性 |
 |------|------|------|------|
 | Junie CLI | JetBrains | 3 月 10 日 | Beta 测试，多厂商模型支持 |
@@ -392,6 +403,7 @@ pretty_table: true
 | **Nebius + Meta** | $270 亿协议 | - | 3 月 17 日 | 5 年期 AI 基础设施 |
 
 #### OpenAI 收购
+
 | 目标 | 时间 | 目的 |
 |------|------|------|
 | Promptfoo | 3 月 10 日 | AI 安全测试，整合进 Frontier 平台 |
