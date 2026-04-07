@@ -8,6 +8,9 @@ categories: sample-posts
 pretty_table: true
 ---
 
+toc:
+   sidebar: left
+
 > 报告周期：2026 年 3 月 1 日 - 3 月 31 日  
 > 生成时间：2026 年 4 月 5 日
 
