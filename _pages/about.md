@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Personal Page of Tengjiao Wang
+subtitle: Research Scientist and Technical Expert @ Huawei Technologies
 
 profile:
   align: right
